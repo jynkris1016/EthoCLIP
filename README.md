@@ -14,7 +14,7 @@ Extensive experiments validate both our method and dataset. Results demonstrate 
 
 # Todo
 - [x] AnimalBand data mapping
-- [ ] EthoCLIP code and pretrained weights (currently under double-checking and organization)
+- [ ] EthoCLIP code and pretrained weights (currently under organization)
 
 ## Acknowledgement
 Thanks to the open source of the following datasets:
